@@ -3,10 +3,10 @@
 # This is part of a series of python programs written as excercises.
 
 This program calculates:_
- _the interest on an invest using:
-  _**compound interest**
-  _**simple interest**
+ * the interest on an invest using:
+   * **compound interest**
+   * **simple interest**
   
- _the monthly interest repayment on a loan
+ * the monthly interest repayment on a loan
 
  
