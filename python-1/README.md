@@ -2,11 +2,16 @@
 
 # This is part of a series of python programs written as excercises.
 
-This program calculates:_
- * the interest on an invest using:
-   * **compound interest**
-   * **simple interest**
+This program calculates:
+ * the interest on an investment using:
+   * Amount
+   * Investment Period (years)
+   * Interest rate (%)
+   * **compound interest** or **simple interest**
   
- * the monthly interest repayment on a loan
+ * the monthly interest repayment on a loan using:
+   * Interest rate
+   * Total Value
+   * Repayment period *(in months)*
 
  
