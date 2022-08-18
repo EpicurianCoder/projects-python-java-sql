@@ -1,4 +1,4 @@
-## finance_calculators.py
+## This belongs to the file **finance_calculators.py**
 
 # This is part of a series of python programs written as excercises.
 
@@ -13,5 +13,3 @@ This program calculates:
    * Interest rate
    * Total Value
    * Repayment period *(in months)*
-
- 
