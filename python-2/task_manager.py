@@ -1,7 +1,3 @@
-# Thank you, I see when updating the users/passwords, I printed them
-# to the document, but I forgot to update the dictionary, so when asking
-# via dictionary, the user didnt exist.
-
 # import library to pull current date
 # textwrap for when task description risks overflowing.
 from datetime import date
