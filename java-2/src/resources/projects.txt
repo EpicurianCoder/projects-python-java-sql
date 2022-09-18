@@ -1,0 +1,3 @@
+1, Hendrix Apartment, Apartment, 21 Site road, 324fe78, 200000.0, 10000.0, 2022-11-02, Barry Allen, Gerty Rudd, Jim Hendrix, false, incomplete
+2, Tyson House, House, 34 Living street, 34354fd89, 250000.0, 1250000.0, 2023-05-21, Roger Goode, Pim Cocktails, Mike Tyson, true, 2022-09-09
+3, Jackson Penthouse, Penthouse, 45 Rich ave, 3434j43, 4500000.0, 550000.0, 2025-01-29, Linda Cohen, Gerty Rudd, Michael Jackson, false, incomplete

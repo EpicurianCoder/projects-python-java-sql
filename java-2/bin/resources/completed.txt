@@ -1,0 +1,14 @@
+projectNumber: 2
+projectName: Tyson House
+buildingType: House
+adress: 34 Living street
+erf: 34354fd89
+totalFee: 250000.0
+totalPaid: 1250000.0
+projectDeadline: 2023-05-21
+architecht: Roger Goode
+contractor: Pim Cocktails
+customer: Mike Tyson
+isFinalized: true
+completionDate: 2022-09-09
+
