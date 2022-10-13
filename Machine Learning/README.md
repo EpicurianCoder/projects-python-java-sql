@@ -2,7 +2,7 @@
 
 # This is part of a series of python programs written as excercises.
 
-## This program takes a dataset and plots this data onto a scatterplot and then, using polynomial regression, plots a predictive curve out outputs all data on a labelled graph.
+## This program takes a dataset and plots this data onto a scatterplot and then, using polynomial regression, plots a predictive curve and outputs all data on a labelled graph.
 
 * The DataSet in this case uses the following three two datapoints:
   * *The number of Oscars Meryl Streep has won*
