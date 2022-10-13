@@ -1,4 +1,4 @@
-## This belongs to the file **polynomial_regression.py**
+## This belongs to the file **kmeans.py**
 
 # This is part of a series of python programs written as excercises.
 
